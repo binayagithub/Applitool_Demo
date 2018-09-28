@@ -24428,3 +24428,9 @@ Session ID: 43a0d50a-a09c-4914-a32b-35e317462dc9
 2018-09-28 14:24:04,317 - java.lang.Class -INFO - Test Case Execution Completed for Applitools_UI_Validations
 2018-09-28 14:24:04,344 - java.lang.Class -INFO - Extent Report Flushed and Report is available now
 2018-09-28 14:24:13,572 - java.lang.Class -INFO - Email Sent with attached execution report
+2018-09-28 15:12:16,961 - java.lang.Class -INFO - Test Execution started for Applitools_UI_Validations
+2018-09-28 15:12:23,024 - java.lang.Class -INFO - Hello World Application launched
+2018-09-28 15:12:29,790 - java.lang.Class -INFO - Hello World Home page Screen shot is validated
+2018-09-28 15:12:35,580 - java.lang.Class -INFO - Test Case Execution Completed for Applitools_UI_Validations
+2018-09-28 15:12:35,592 - java.lang.Class -INFO - Extent Report Flushed and Report is available now
+2018-09-28 15:12:45,748 - java.lang.Class -INFO - Email Sent with attached execution report
